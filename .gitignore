@@ -1,0 +1,6 @@
+/RestAuthentication/target/
+/RestAuthentication/camunda-h2-database.mv.db
+/RestAuthentication/camunda-h2-database.trace.db
+/RestAuthentication/.idea
+/RestAuthentication/*.iml
+
