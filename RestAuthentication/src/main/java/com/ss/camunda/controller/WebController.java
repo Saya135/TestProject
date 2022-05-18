@@ -1,4 +1,4 @@
-package com.abeam.ss.camunda.controller;
+package com.ss.camunda.controller;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.stereotype.Controller;
