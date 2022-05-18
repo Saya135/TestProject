@@ -1,4 +1,4 @@
-package com.abeam.ss.camunda;
+package com.ss.camunda;
 
 import org.camunda.bpm.spring.boot.starter.annotation.EnableProcessApplication;
 import org.springframework.boot.SpringApplication;
